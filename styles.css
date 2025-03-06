@@ -1,0 +1,40 @@
+*{
+  box-sizing: border-box ;
+}
+.logoz{
+  text-align:center;
+}
+ul{
+  display: inline-flex;
+  list-style-type: none;
+  gap:6vw;
+}
+#header{
+  position:sticky;
+  top:0px;
+  background: #000;
+  color: #fff;
+  padding-top: 0.1px;
+}
+.sign1{
+  padding: 3px 3vw 3px 3vw;
+  margin: 10px 1vw 30px 35%;
+}
+img{
+  width: 100%;
+}
+.content h2{
+  text-align:center;
+}
+.hed2{
+  text-align:center;
+}
+footer{
+  background:#4B4B4B;
+  color: white;
+  height: 2vh;
+  text-align:center;
+}
+h5{
+  text-align:right;
+}
